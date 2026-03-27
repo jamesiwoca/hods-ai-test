@@ -16,10 +16,10 @@ The data is in `leads.csv`.
 
 This interview has two parts:
 
-1. **The exercise** (60 minutes) — Work through the problem below and submit a written document with your analysis and recommendations. This is the primary output and what we'll assess.
-2. **The discussion** (30 minutes) — We'll walk through your submission together, discussing your approach, findings, and how you'd take this further.
+1. **The exercise** (60 minutes) — Work through the problem below and submit your analysis, code, and recommendations. Both the code and the written findings matter — we want to see how you work, not just what you conclude.
+2. **The discussion** (30 minutes) — We'll walk through your submission together, discussing your approach, code, findings, and how you'd take this further.
 
-Please submit your work as either a **Jupyter notebook** (`.ipynb`) or a **zip file** containing a Markdown document (`.md`) and any images it references.
+Please submit your work as either a **Jupyter notebook** (`.ipynb`) or a **zip file** containing your code, a write-up (`.md`), and any images it references.
 
 ## Your Task
 
