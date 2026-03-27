@@ -12,6 +12,15 @@ We've been using `lead_score` to decide which leads to market to. Generally, the
 
 The data is in `leads.csv`.
 
+## Interview Format
+
+This interview has two parts:
+
+1. **The exercise** (60 minutes) — Work through the problem below and submit a written document with your analysis and recommendations. This is the primary output and what we'll assess.
+2. **The discussion** (30 minutes) — We'll walk through your submission together, discussing your approach, findings, and how you'd take this further.
+
+Please submit your work as either a **Jupyter notebook** (`.ipynb`) or a **zip file** containing a Markdown document (`.md`) and any images it references.
+
 ## Your Task
 
 We want to move beyond relying on the provider's score. Your job is to:
@@ -19,8 +28,6 @@ We want to move beyond relying on the provider's score. Your job is to:
 1. **Explore the data** and assess how well the current approach (using `lead_score` to prioritise leads) is working.
 2. **Build a better model** for deciding which leads to market to.
 3. **Present your recommendation** — what should we do differently, and why?
-
-You have 60 minutes to work, then 15-30 minutes to walk us through your findings.
 
 ## What You Have Access To
 
